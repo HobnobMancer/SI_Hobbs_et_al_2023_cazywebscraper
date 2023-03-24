@@ -8,6 +8,8 @@ Run all commands provided in the walkthrough from the root of this directory.
 
 Preprint available in [BioRxiv](https://www.biorxiv.org/content/10.1101/2022.12.02.518825v1.full).
 
+Find the `cazy_webscraper` website [here](https://hobnobmancer.github.io/cazy_webscraper/), including [documentation](https://cazy-webscraper.readthedocs.io/en/latest/?badge=latest) and [GitHub repository](https://github.com/HobnobMancer/cazy_webscraper).
+
 ## How to use this repository.
 
 You can use this repository like a website, to browse and see how we performed the analysis, or you can download it to inspect, verify, reproduce and build on our analysis.
