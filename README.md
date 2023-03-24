@@ -6,7 +6,9 @@ This repository contains supplementary information for analyses reported in Hobb
 
 Run all commands provided in the walkthrough from the root of this directory.
 
-Preprint available in [BioRxiv](https://www.biorxiv.org/content/10.1101/2022.12.02.518825v1.full).
+All additional files mentioned in the manuscript are stored in the `additional_files.zip` file, and are numbered in the same order as they are presented in the manuscript.
+
+Preprint of the manuscript is available in [BioRxiv](https://www.biorxiv.org/content/10.1101/2022.12.02.518825v1.full).
 
 Find the `cazy_webscraper` website [here](https://hobnobmancer.github.io/cazy_webscraper/), including [documentation](https://cazy-webscraper.readthedocs.io/en/latest/?badge=latest) and [GitHub repository](https://github.com/HobnobMancer/cazy_webscraper).
 
