@@ -2,7 +2,11 @@
 
 ## `cazy_webscraper`: local compilation and interrogation of comprehensive CAZyme datasets
 
-This repository contains supplementary information for analyses reported in Hobbs et al. (2023), which presents the software package `cazy_webscraper` and demonstrates the applications of `cazy_webscraper`. We demonstrate how cazy_webscraper facilitates functional, structural and evolutionary studies of large CAZyme datasets to identify identification of candidate enzymes for further characterisation. Specifically, we identify (i) underrepresented taxa in CAZy and unusual CAZy class distributions; (ii) investigate three CAZymes having potential biotechnological application for degradation of biomass, but lacking a representative structure in the PDB database; and (iii) supporting evidence for recent expansion of the Auxiliary Activities (AA) CAZy family in eukaryotes, consistent with functions potentially specific to eukaryotic lifestyles.
+[![DOI](https://zenodo.org/badge/618545565.svg)](https://zenodo.org/badge/latestdoi/618545565)
+
+This repository contains supplementary information for analyses reported in Hobbs et al. (2023), which presents the software package `cazy_webscraper` and demonstrates the applications of `cazy_webscraper`.
+
+In the manuscript we demonstrate how cazy_webscraper facilitates functional, structural and evolutionary studies of large CAZyme datasets to identify identification of candidate enzymes for further characterisation. Specifically, we identify (i) underrepresented taxa in CAZy and unusual CAZy class distributions; (ii) investigate three CAZymes having potential biotechnological application for degradation of biomass, but lacking a representative structure in the PDB database; and (iii) supporting evidence for recent expansion of the Auxiliary Activities (AA) CAZy family in eukaryotes, consistent with functions potentially specific to eukaryotic lifestyles.
 
 Run all commands provided in the walkthrough from the root of this directory.
 
