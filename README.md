@@ -22,7 +22,7 @@ Many additional files are provided along side the `cazy_webscraper` manuscript. 
 
 ## List of Additional files
 
-**Additional file 1 ** - RMarkdown notebook. Zip file containing a RMarkdown notebook and all required data files to perform statistical tests and generate figures. (ZIP 58KB)
+**Additional file 1** - RMarkdown notebook. Zip file containing a RMarkdown notebook and all required data files to perform statistical tests and generate figures. (ZIP 58KB)
 
 **Additional file 2** - Kingdom distribution per CAZy family. The proportions and presence/absence plots of CAZymes per taxonomic kingdom in each CAZy family. (PDF 46KB)
 
