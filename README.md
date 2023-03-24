@@ -12,6 +12,10 @@ Preprint of the manuscript is available in [BioRxiv](https://www.biorxiv.org/con
 
 Find the `cazy_webscraper` website [here](https://hobnobmancer.github.io/cazy_webscraper/), including [documentation](https://cazy-webscraper.readthedocs.io/en/latest/?badge=latest) and [GitHub repository](https://github.com/HobnobMancer/cazy_webscraper).
 
+## Additional files
+
+Many additional files are provided along side the `cazy_webscraper` manuscript. All additional files are stored in the `additional_files.zip` file, which is stored in this repository and can be downloaded [here](https://github.com/HobnobMancer/SI_Hobbs_et_al_2023_cazywebscraper/raw/master/additional_files.zip). All additional files are given the name used in the manuscript.
+
 ## Contributors
 
 - [Emma E. M. Hobbs](https://github.com/HobnobMancer), PhD candidate, University of St Andrews, James Hutton Institute and University of Strathclyde
