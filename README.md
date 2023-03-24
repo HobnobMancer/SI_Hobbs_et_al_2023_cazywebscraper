@@ -12,6 +12,12 @@ Preprint of the manuscript is available in [BioRxiv](https://www.biorxiv.org/con
 
 Find the `cazy_webscraper` website [here](https://hobnobmancer.github.io/cazy_webscraper/), including [documentation](https://cazy-webscraper.readthedocs.io/en/latest/?badge=latest) and [GitHub repository](https://github.com/HobnobMancer/cazy_webscraper).
 
+## Contributors
+
+- [Emma E. M. Hobbs](https://github.com/HobnobMancer), PhD candidate, University of St Andrews, James Hutton Institute and University of Strathclyde
+- [Dr Leighton Pritchard](https://github.com/widdowquinn), University of Strathclyde
+- Dr Tracey M. Gloster, University of St Andrews
+
 ## How to use this repository.
 
 You can use this repository like a website, to browse and see how we performed the analysis, or you can download it to inspect, verify, reproduce and build on our analysis.
