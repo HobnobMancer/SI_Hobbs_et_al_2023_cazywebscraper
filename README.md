@@ -49,6 +49,8 @@ conda install --file requirements.txt -y
 
 # Reproducing the analyses
 
+The `data/` directory is already pre-populated with FASTA files required to query the CE19 _TBR22\_41900_ protein sequence against the CE19 protein that were structurally characterised (in June 2022).
+
 ## Build a local CAZyme database
 
 Download all CAZyme records from the [CAZy](http://www.cazy.org) database and compile the records into a SQLite3 database.
