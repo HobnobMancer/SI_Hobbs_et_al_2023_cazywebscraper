@@ -35,7 +35,31 @@ Please raise an issue at the corresponding `GitHub` page:
 The structure of this repository:
 
 ```bash
-
+.
+├── LICENSE
+├── README.md
+├── __config.yml
+├── assets
+│   └── cazy_web_logo.svg
+├── data
+│   ├── README.md
+│   ├── tbr22_41900_cterm_seq.fasta
+│   └── tbr22_41900_seq.fasta
+└── scripts
+    ├── blastp_ce19.sh
+    ├── blastp_cterm_ce19.sh
+    ├── blastp_pl20.sh
+    ├── build_database.sh
+    ├── cazymes_per_cazy_kingdom.sh
+    ├── cluster_ce12_ce19_seqs.sh
+    ├── gather_clusters.py
+    ├── get_archaeal_cazymes.sh
+    ├── get_ce19_pdb_prots.py
+    ├── get_ce_pdbs.sh
+    ├── get_ce_seqs.sh
+    ├── get_ncbi_taxs.sh
+    ├── get_pl20_seqs.sh
+    └── get_pl20_taxons.sh
 ```
 
 ## Set up
