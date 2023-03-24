@@ -3,6 +3,7 @@
 ## `cazy_webscraper`: local compilation and interrogation of comprehensive CAZyme datasets
 
 [![DOI](https://zenodo.org/badge/618545565.svg)](https://zenodo.org/badge/latestdoi/618545565)
+[Visit the repository](https://github.com/HobnobMancer/SI_Hobbs_et_al_2023_cazywebscraper)
 
 This repository contains supplementary information for analyses reported in Hobbs et al. (2023), which presents the software package `cazy_webscraper` and demonstrates the applications of `cazy_webscraper`.
 
