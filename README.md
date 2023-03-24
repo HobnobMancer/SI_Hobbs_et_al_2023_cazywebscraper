@@ -43,6 +43,7 @@ The structure of this repository:
 ├── __config.yml
 ├── assets
 │   └── cazy_web_logo.svg
+├── additional_files.zip
 ├── data
 │   ├── README.md
 │   ├── tbr22_41900_cterm_seq.fasta
